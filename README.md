@@ -1,5 +1,7 @@
 # Análise de Satisfação e Recomendação de Clientes no Power BI
 
+<img width="2000" height="1140" alt="image" src="https://github.com/user-attachments/assets/d604ef9c-a8d9-46ac-bb44-02d54238c5b6" />
+
 ## Descrição
 Este projeto utiliza o Power BI para analisar o Net Promoter Score (NPS) e as métricas de recomendação de clientes ao longo de diferentes meses e segmentações demográficas. A visualização foi projetada para oferecer insights claros e objetivos sobre os comportamentos dos clientes, dividindo-os em detratores, passivos e promotores.
 
